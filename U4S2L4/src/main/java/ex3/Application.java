@@ -1,4 +1,4 @@
-package org.epicode;
+package ex3;
 
 public class Application {
 
